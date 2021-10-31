@@ -12,3 +12,6 @@
 #### Follow me
 [![github](https://img.shields.io/badge/GitHub-090909?style=flat-square&logo=github)](https://github.com/willtern1)
 [![telegram](https://img.shields.io/badge/Telegram-090909?style=flat-square&logo=telegram)](https://t.me/willtern)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willtern1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willtern1&layout=compact)](https://github.com/willtern1/github-readme-stats)
