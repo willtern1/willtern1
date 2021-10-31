@@ -1,7 +1,7 @@
-1 Header
+[! [Header](https://github.com/willtern1/willtern1/blob/main/assets/untitleddesign_1_original.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-2  About
+About
 
-3 Languages and tools 
+Languages and tools 
 
-4 Follow me
+Follow me
